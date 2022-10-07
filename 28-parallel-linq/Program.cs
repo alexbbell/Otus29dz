@@ -35,9 +35,9 @@ namespace _28_parallel_linq
             diagram.SimpleCount(methods3);
             diagram.LinqAsParallel(methods3);
             diagram.ParallellTasks(methods3);
-            
-            //StopWatchWrapper(methods3);
 
+            //StopWatchWrapper(methods3);
+            diagram.PrintResult();
 
 
             Console.WriteLine("Hello World!");
