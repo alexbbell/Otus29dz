@@ -22,7 +22,7 @@ namespace _28_parallel_linq
             StopWatchWrapper(methods2);
 
 
-            int n3 = 1000000;
+            int n3 = 100000;
             Console.WriteLine("N3 = " + n3);
             Methods methods3 = new Methods(n3);
             StopWatchWrapper(methods3);
