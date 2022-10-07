@@ -1,3 +1,21 @@
+WindowsCurrentVersion                                   : 6.3
+WindowsEditionId                                        : CoreSingleLanguage
+WindowsProductName                                      : Windows 10 Home Single Language
+WindowsVersion                                          : 2009
+CsManufacturer                                          : HUAWEI
+CsNumberOfProcessors                                    : 1
+CsProcessors                                            : {Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz}
+CsSystemType                                            : x64-based PC
+OsTotalVisibleMemorySize                                : 8217904
+OsFreePhysicalMemory                                    : 634148
+OsTotalVirtualMemorySize                                : 32078668
+OsFreeVirtualMemory                                     : 5671000
+OsInUseVirtualMemory                                    : 26407668
+OsArchitecture                                          : 64-bit
+OsLanguage                                              : en-US
+
+
+
         Method          |    N     |       SUM          | Execute time: |
 -------------------------------------------------------------------------
 Simple Calculation	|100000    |5000050000          |  3		|
