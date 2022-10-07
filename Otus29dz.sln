@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Otus29dz", "Otus29dz\Otus29
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassGenerator", "ClassGenerator\ClassGenerator.csproj", "{253593F4-55CE-45A8-A241-84F5FCDFF433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-parallel-linq", "28-parallel-linq\28-parallel-linq.csproj", "{9AE1DEAB-DDDB-4D40-ADA1-FB8436F9C5E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28-parallel-linq", "28-parallel-linq\28-parallel-linq.csproj", "{9AE1DEAB-DDDB-4D40-ADA1-FB8436F9C5E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsSum", "TestsSum\TestsSum.csproj", "{0FE93FE3-86BE-4594-9687-FB740BE92087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsSum", "TestsSum\TestsSum.csproj", "{0FE93FE3-86BE-4594-9687-FB740BE92087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTest", "ThreadTest\ThreadTest.csproj", "{94B6BD43-EE86-46BB-A92A-9246C6DD2AD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0FE93FE3-86BE-4594-9687-FB740BE92087}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FE93FE3-86BE-4594-9687-FB740BE92087}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FE93FE3-86BE-4594-9687-FB740BE92087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B6BD43-EE86-46BB-A92A-9246C6DD2AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B6BD43-EE86-46BB-A92A-9246C6DD2AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B6BD43-EE86-46BB-A92A-9246C6DD2AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B6BD43-EE86-46BB-A92A-9246C6DD2AD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
