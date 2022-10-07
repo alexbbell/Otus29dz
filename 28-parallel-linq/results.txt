@@ -1,0 +1,33 @@
+N1 = 10000
+The sum is: 45000
+Execute time: 20
+
+-----Parallel linq
+The sum is: 45000
+Execute time: 82
+
+-----Parallel Task linq
+The sum is: 45000
+Execute time: 11
+N2 = 100000
+The sum is: 450000
+Execute time: 1
+
+-----Parallel linq
+The sum is: 450000
+Execute time: 0
+
+-----Parallel Task linq
+The sum is: 450000
+Execute time: 14
+N3 = 100000
+The sum is: 450000
+Execute time: 0
+
+-----Parallel linq
+The sum is: 450000
+Execute time: 0
+
+-----Parallel Task linq
+The sum is: 450000
+Execute time: 7
