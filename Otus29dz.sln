@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otus29dz", "Otus29dz\Otus29dz.csproj", "{154DF5B8-2C39-48C5-923D-7A866B076D19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Otus29dz", "Otus29dz\Otus29dz.csproj", "{154DF5B8-2C39-48C5-923D-7A866B076D19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassGenerator", "ClassGenerator\ClassGenerator.csproj", "{253593F4-55CE-45A8-A241-84F5FCDFF433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassGenerator", "ClassGenerator\ClassGenerator.csproj", "{253593F4-55CE-45A8-A241-84F5FCDFF433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-parallel-linq", "28-parallel-linq\28-parallel-linq.csproj", "{9AE1DEAB-DDDB-4D40-ADA1-FB8436F9C5E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{253593F4-55CE-45A8-A241-84F5FCDFF433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{253593F4-55CE-45A8-A241-84F5FCDFF433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{253593F4-55CE-45A8-A241-84F5FCDFF433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE1DEAB-DDDB-4D40-ADA1-FB8436F9C5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE1DEAB-DDDB-4D40-ADA1-FB8436F9C5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE1DEAB-DDDB-4D40-ADA1-FB8436F9C5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE1DEAB-DDDB-4D40-ADA1-FB8436F9C5E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

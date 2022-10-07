@@ -21,6 +21,7 @@ namespace ClassGenerator
             cottage2.Square = 250;
             Console.WriteLine($"cottage: {cottage2.Name}, {cottage2.Square}, {cottage2.IsParking}");
 
+            
             Neboscreb neboscreb = new Neboscreb(house.Name, house.Square, true, 13);
             Console.WriteLine($"neboscreb 1: {neboscreb.Name}, square: {neboscreb.Square}, is parking: {neboscreb.IsParking}");
             
